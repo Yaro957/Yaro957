@@ -1,97 +1,111 @@
-# Hey there! 👋 I'm Yaro957
+# Hey there! 👋 I'm Om Jumde (aka Yaro957)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;Web+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🚀+B.Tech+IT+Student+%7C+Cybersecurity+Analyst;💡+Frontend+Engineer+%7C+AI+Voice+Assistant+Builder;🌐+React+%7C+Node.js+%7C+Flutter+%7C+MongoDB;🛡️+Always+Building+%2F+Learning+%2F+Hacking" />
 </div>
 
-## 🚀 About Me
+---
 
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+## 🧠 About Me
 
-I'm a passionate developer who loves turning ideas into reality through code. Whether it's building web applications, automating mundane tasks, or exploring the latest in tech - I'm always up for a coding challenge!
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
-- 🔭 Currently working on exciting Python projects
-- 🌱 Learning new frameworks and technologies
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about Python, web development, or anything tech-related
-- 📫 How to reach me: **[Add your email/contact]**
-- ⚡ Fun fact: I debug with `print()` statements and I'm not ashamed of it!
+I'm a tech enthusiast currently pursuing my B.Tech in Information Technology at GCOEA. I love combining creativity and logic—whether it’s building cross-platform apps, solving security challenges, or leading technical initiatives.
 
-## 🛠️ Tech Stack & Tools
+- 🔭 Currently working on: `JARVIS` (AI Voice Assistant) & `Learnify` (Course Recommender)
+- 👨‍💻 Actively learning advanced backend & Flutter development
+- 🛡️ Skilled in penetration testing, network security, and vulnerability assessment
+- 📫 Reach me at: omjumde204@gmail.com
+- ⚡ Fun fact: I use `print()` for debugging more often than I should 😉
 
-<div align="center">
+---
+
+## 💼 Experience & Roles
+
+- 🧪 **Cybersecurity Analyst** (Virtual | Forage)  
+  → Conducted forensic analysis, detected unauthorized access, and delivered an incident report for execs  
+- 🛠 **Network Assistant Trainee**, GCOEA Boys Hostel  
+  → Maintained network for 300+ users, reduced downtime by 30%, implemented device blacklisting  
+- 🚀 **Technical Lead**, HackSlash Innovation Club  
+  → Mentored 50+ members, organized workshops/hackathons, built industry partnerships
+
+---
+
+## 🔥 Projects
+
+### 🚀 Learnify – AI-Powered Course Recommender
+[GitHub Repo](https://github.com/Yaro957/Learnify)
+- Built with **React.js**, **Node.js**, **MongoDB**, and **YouTube API**
+- ML-based recommendation engine with 85% accuracy over 10k+ videos
+- Personalized learning paths + <200ms average response time
+
+### 🤖 JARVIS – AI Voice Assistant
+[GitHub Repo](https://github.com/Yaro957/JARVIS)
+- Cross-platform: **Python (desktop)** + **Flutter (mobile)**
+- Handles 15+ voice/text commands: WhatsApp, Spotify, weather, browser automation
+- Modular command system & real-time logs
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-</div>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yaro957&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaro957&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yaro957&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaro957&layout=compact&langs_count=8&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaro957&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaro957&theme=dark" alt="GitHub Streak Stats" />
-</div>
+---
 
-## 🎯 Featured Projects
+## 🏆 Achievements
 
-<div align="center">
+- 🥇 **1st Place Winner** – Wings 2k23 (IoT-based Waste Segregation System)
+- ✅ **Ethical Hacking Certified** – Internshala (Web security, pen testing, and vuln assessment)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaro957&repo=awesome-project&theme=dark)](https://github.com/Yaro957/JARVIS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaro957&repo=cool-webapp&theme=dark)](https://github.com/Yaro957/NetReaper)
+---
 
-</div>
+## 🎨 Fun Facts
 
-### 🌟 What I'm Working On
+- 🎧 Coding to lo-fi hip hop is a lifestyle
+- 💻 Still prefers debugging with `console.log()` sometimes
+- 📺 Binge-watches tech videos more than Netflix
+- 🤖 Believes AI assistants should be customizable and personal (hence JARVIS!)
 
-- **🐍 Python Automation Tools**: Building scripts to make life easier
-- **🌐 Web Development**: Creating responsive and interactive web applications
-- **📊 Data Analysis**: Exploring datasets and extracting meaningful insights
-- **🔧 Open Source Contributions**: Contributing to the community one commit at a time
+---
 
-## 📈 Activity Graph
+## 📬 Connect With Me
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Yaro957&theme=dark&hide_border=true" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yaro957&theme=dark&no-frame=true&no-bg=false&margin-w=4" />
-</div>
-
-## 🎨 Fun Facts & Random Stuff
-
-- 🎯 **Favorite Programming Quote**: *"First, solve the problem. Then, write the code."* - John Johnson
-- 🎵 **Coding Playlist**: Lo-fi hip hop beats to code/relax to
-- ☕ **Fuel**: Coffee (lots of it) and occasional energy drinks
-- 🎮 **When not coding**: Gaming, reading tech blogs, or binge-watching coding tutorials
-- 🧠 **Philosophy**: "There are only 10 types of people in the world: those who understand binary and those who don't"
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-jumde-884925247/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.omjumde204@gmail.com)
-
+  <a href="mailto:omjumde204@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/om-jumde-884925247/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 ---
@@ -101,14 +115,9 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
   <img src="https://img.shields.io/github/followers/Yaro957?style=for-the-badge&color=blue" alt="GitHub Followers" />
 </div>
 
-<div align="center">
-  
-**Thanks for stopping by! 🚀 Let's build something amazing together!**
-
-</div>
-
 ---
 
 <div align="center">
-  <i>⭐️ From [Yaro957](https://github.com/Yaro957)</i>
+  <strong>Thanks for stopping by 🚀 Let's build something amazing together!</strong>
 </div>
+
