@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Om Jumde (aka Yaro957)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hey+I'm+Om+Jumde+👋;B.Tech+IT+Student+%7C+Cybersecurity+Intern;Flutter+%7C+MERN+Stack+Developer;Always+learning+%26+building+cool+stuff!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hey+I'm+Om+Jumde+👋;MERN+Stack+Developer;Always+learning+%26+building+cool+stuff!" />
 
 </div>
 
