@@ -27,41 +27,34 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yaro957&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaro957&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yaro957&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaro957&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaro957&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaro957&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
 ## 🎯 Featured Projects
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaro957&repo=awesome-project&theme=radical)](https://github.com/Yaro957/awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaro957&repo=cool-webapp&theme=radical)](https://github.com/Yaro957/cool-webapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaro957&repo=awesome-project&theme=dark)](https://github.com/Yaro957/JARVIS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaro957&repo=cool-webapp&theme=dark)](https://github.com/Yaro957/NetReaper)
 
 </div>
 
@@ -75,13 +68,13 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Yaro957&theme=radical&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Yaro957&theme=dark&hide_border=true" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yaro957&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yaro957&theme=dark&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
 ## 🎨 Fun Facts & Random Stuff
