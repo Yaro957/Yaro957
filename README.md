@@ -43,6 +43,9 @@ I'm a tech enthusiast currently pursuing my B.Tech in Information Technology at 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaro957&layout=compact&langs_count=8&theme=tokyonight"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaro957&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-ram-1818&theme=tokyo-night&hide_border=true" />
+</div>
 </div>
 
 ---
