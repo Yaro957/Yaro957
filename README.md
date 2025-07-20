@@ -44,7 +44,7 @@ I'm a tech enthusiast currently pursuing my B.Tech in Information Technology at 
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaro957&theme=tokyonight" alt="GitHub Streak Stats"/>
   <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-ram-1818&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaro957&theme=tokyo-night&hide_border=true" />
 </div>
 </div>
 
