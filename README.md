@@ -1,54 +1,18 @@
 # Hey there! 👋 I'm Om Jumde (aka Yaro957)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hey+I'm+Om+Jumde+👋;MERN+Stack+Developer;Always+learning+%26+building+cool+stuff!" />
-
-</div>
-
----
-
 ## 🧠 About Me
 
 > *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
 I'm a tech enthusiast currently pursuing my B.Tech in Information Technology at GCOEA. I love combining creativity and logic—whether it’s building cross-platform apps, solving security challenges, or leading technical initiatives.
 
-- 🔭 Currently working on: `JARVIS` (AI Voice Assistant) & `Learnify` (Course Recommender)
+- 🔭 Currently working on: `JARVIS` (AI Voice Assistant) 
 - 👨‍💻 Actively learning advanced backend & Flutter development
 - 🛡️ Skilled in penetration testing, network security, and vulnerability assessment
 - 📫 Reach me at: omjumde204@gmail.com
 - ⚡ Fun fact: I use `print()` for debugging more often than I should 😉
 
----
 
-## 💼 Experience & Roles
-
-- 🧪 **Cybersecurity Analyst** (Virtual | Forage)  
-  → Conducted forensic analysis, detected unauthorized access, and delivered an incident report for execs  
-- 🛠 **Network Assistant Trainee**, GCOEA Boys Hostel  
-  → Maintained network for 300+ users, reduced downtime by 30%, implemented device blacklisting  
-- 🚀 **Technical Lead**, HackSlash Innovation Club  
-  → Mentored 50+ members, organized workshops/hackathons, built industry partnerships
-
----
-
-## 🔥 Projects
-
-### 🚀 Learnify – AI-Powered Course Recommender
-[GitHub Repo](https://github.com/Yaro957/Learnify)
-- Built with **React.js**, **Node.js**, **MongoDB**, and **YouTube API**
-- ML-based recommendation engine with 85% accuracy over 10k+ videos
-- Personalized learning paths + <200ms average response time
-
-### 🤖 JARVIS – AI Voice Assistant
-[GitHub Repo](https://github.com/Yaro957/JARVIS)
-- Cross-platform: **Python (desktop)** + **Flutter (mobile)**
-- Handles 15+ voice/text commands: WhatsApp, Spotify, weather, browser automation
-- Modular command system & real-time logs
-
----
-
-## 🛠️ Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -82,12 +46,7 @@ I'm a tech enthusiast currently pursuing my B.Tech in Information Technology at 
 
 ---
 
-## 🏆 Achievements
 
-- 🥇 **1st Place Winner** – Wings 2k23 (IoT-based Waste Segregation System)
-- ✅ **Ethical Hacking Certified** – Internshala (Web security, pen testing, and vuln assessment)
-
----
 
 ## 🎨 Fun Facts
 
