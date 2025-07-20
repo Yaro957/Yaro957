@@ -3,14 +3,15 @@
 ## 🧠 About Me
 
 > *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+> Believes AI assistants should be customizable and personal (hence JARVIS!)
 
 I'm a tech enthusiast currently pursuing my B.Tech in Information Technology at GCOEA. I love combining creativity and logic—whether it’s building cross-platform apps, solving security challenges, or leading technical initiatives.
 
 - 🔭 Currently working on: `JARVIS` (AI Voice Assistant) 
 - 👨‍💻 Actively learning advanced backend & Flutter development
 - 🛡️ Skilled in penetration testing, network security, and vulnerability assessment
-- 📫 Reach me at: omjumde204@gmail.com
-- ⚡ Fun fact: I use `print()` for debugging more often than I should 😉
+- ⚡- 💻 Still prefers debugging with `console.log()` sometimes
+
 
 
 
@@ -48,14 +49,6 @@ I'm a tech enthusiast currently pursuing my B.Tech in Information Technology at 
 
 
 
-## 🎨 Fun Facts
-
-- 🎧 Coding to lo-fi hip hop is a lifestyle
-- 💻 Still prefers debugging with `console.log()` sometimes
-- 📺 Binge-watches tech videos more than Netflix
-- 🤖 Believes AI assistants should be customizable and personal (hence JARVIS!)
-
----
 
 ## 📬 Connect With Me
 
