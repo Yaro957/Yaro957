@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Om Jumde (aka Yaro957)</h1>
 
-<p align="center"><em>"> Believes AI assistants should be customizable and personal (hence JARVIS!)
+<p align="center"><em>"Believes AI assistants should be customizable and personal (hence JARVIS!)
 "</em></p>
 
 ---
